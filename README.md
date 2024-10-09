@@ -4,7 +4,7 @@
               find a variety of projects that reflect my skills, interests, and passion for solving real-world challenges through technology.</li>
   <li><h2>Projects with my Organization:</h2></li>
     <ul>
-      <li>Check out the projects I'm working on with [TwoMindsOneCode](https://github.com/TwoMindsOneCode) organization.</li>
+      <li>Check out the projects I'm working on with <a href="https://github.com/TwoMindsOneCode">TwoMindsOneCode</a> organization.</li>
     </ul>
 </ul>
 
